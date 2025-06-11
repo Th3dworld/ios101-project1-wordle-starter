@@ -24,7 +24,8 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-https://s2.ezgif.com/tmp/ezgif-2b668bf63fd28a.gif
+![Alt Text](https://s2.ezgif.com/tmp/ezgif-2b668bf63fd28a.gif)
+
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
